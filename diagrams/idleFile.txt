@@ -1,1 +1,1 @@
-
+A directory is mandatory to send drawio file to github and a text file is mandatory to create a directory on github

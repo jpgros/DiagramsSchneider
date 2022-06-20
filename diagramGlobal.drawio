@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T14:58:21.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="z5vA29FNSrj3cOcpc2EA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T14:58:47.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AKNbNwFVQWg-LCdDGM5K" version="20.0.1" type="github">
   <diagram id="BBVn9Ozy_GyZHSGKIwdL" name="Page-1">
-    <mxGraphModel dx="1519" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,10 +215,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Ew5lvRJ-K_IrbWlO6LA-29" value="Snapshots aggregates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="515" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Ew5lvRJ-K_IrbWlO6LA-32" value="AUM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="555" y="390" width="60" height="80" as="geometry" />
+          <mxGeometry x="590" y="390" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
